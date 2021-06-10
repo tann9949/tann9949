@@ -4,7 +4,6 @@
 Research Assistant at VISTEC
 Graduated from Chulalongkorn University, Information and Communication Engineering
 
-<br>
 
 ##### Research Area:
 - Automatic Speech Recognition
