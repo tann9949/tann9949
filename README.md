@@ -1,7 +1,15 @@
 ### Hi, 
 
 ##### Chompakorn Chaksangchaichot
-Research Assistant at VISTEC
+<br>
+<img height="20" src="https://airesearch.in.th/assets/favicon/favicon-194x194.png">
+<img height="20" src="https://www.vistec.ac.th/img/logo.png"><br>
+Research Assistant at VISTEC-DEPA AIResearch Thailand 
+
+<br>
+<br>
+<img height="20" src="http://www.ise.eng.chula.ac.th/images/theme/page/home/pic-academic-icon-4.png">
+<img height="20" src="http://www.ise.eng.chula.ac.th/images/theme/layout/pic-ISE-logo.png">
 Graduated from Chulalongkorn University, Information and Communication Engineering
 
 
@@ -15,7 +23,7 @@ Graduated from Chulalongkorn University, Information and Communication Engineeri
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
