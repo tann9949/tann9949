@@ -3,13 +3,12 @@
 ##### Chompakorn Chaksangchaichot
 <br>
 <img height="20" src="https://airesearch.in.th/assets/favicon/favicon-194x194.png">
-<img height="20" src="https://www.vistec.ac.th/img/logo.png"><br>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/th/thumb/b/b5/Logo_vistec.png/1200px-Logo_vistec.png"><br>
 Research Assistant at VISTEC-DEPA AIResearch Thailand 
 
 <br>
 <br>
-<img height="20" src="http://www.ise.eng.chula.ac.th/images/theme/page/home/pic-academic-icon-4.png">
-<img height="20" src="http://www.ise.eng.chula.ac.th/images/theme/layout/pic-ISE-logo.png">
+<img height="20" src="http://www.ise.eng.chula.ac.th/images/theme/page/home/pic-academic-icon-4.png"><br>
 Graduated from Chulalongkorn University, Information and Communication Engineering
 
 
