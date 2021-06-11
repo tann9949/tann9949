@@ -40,5 +40,6 @@ Graduated from Chulalongkorn University, Information and Communication Engineeri
 
 **Listening on:**
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214c4wqlsnqzw4cmpd53ym56a&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=214c4wqlsnqzw4cmpd53ym56a&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=214c4wqlsnqzw4cmpd53ym56a&redirect=true" style="margin-right:50px">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=214c4wqlsnqzw4cmpd53ym56a&cover_image=true&theme=default" alt="spotify-github-profile" height="250"/>
+</a>
