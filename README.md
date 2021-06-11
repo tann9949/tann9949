@@ -1,17 +1,30 @@
 ### Hi, 
 
-##### Chompakorn Chaksangchaichot
+My name is **Chompakorn Chaksangchaichot**
+
 <br>
-<img height="20" src="https://airesearch.in.th/assets/favicon/favicon-194x194.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/th/thumb/b/b5/Logo_vistec.png/1200px-Logo_vistec.png"><br>
+<div>
+<a href="https://airesearch.in.th/" style="margin-right:10px">
+<img src="https://airesearch.in.th/assets/img/logo/airesearch-logo.svg" alt="airesearch" height="20"/>
+</a>
+<a href="https://www.vistec.ac.th/home/">
+<img src="https://upload.wikimedia.org/wikipedia/th/thumb/b/b5/Logo_vistec.png/1200px-Logo_vistec.png" alt="vistec" height="20"/>
+</a>
+<br>
 Research Assistant at VISTEC-DEPA AIResearch Thailand 
+</div>
 
 <br>
-<br>
-<img height="20" src="http://www.ise.eng.chula.ac.th/images/theme/page/home/pic-academic-icon-4.png">
+<div>
+<a href="http://www.ise.eng.chula.ac.th/academics/ice/info" style="margin-right:50px">
+<img src="http://www.ise.eng.chula.ac.th/images/theme/page/home/pic-academic-icon-4.png" alt="ICE_logo" height="40"/>
+</a><br>
 Graduated from Chulalongkorn University, Information and Communication Engineering
+</div>
+<br>
 
 
-##### Research Area:
+### Research Area:
 - Automatic Speech Recognition
 - Speech Emotion Recognition
 - Speech Identification
