@@ -2,6 +2,9 @@
 
 My name is **Chompakorn Chaksangchaichot**
 
+
+![chompk's GitHub stats](https://github-readme-stats.vercel.app/api?username=tann9949&hide=issues&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tann9949&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <div>
 <a href="https://airesearch.in.th/" style="margin-right:10px">
