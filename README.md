@@ -14,7 +14,8 @@ My name is **Chompakorn Chaksangchaichot**
 <img src="https://upload.wikimedia.org/wikipedia/th/thumb/b/b5/Logo_vistec.png/1200px-Logo_vistec.png" alt="vistec" height="20"/>
 </a>
 <br>
-Research Assistant at VISTEC-DEPA AIResearch Thailand 
+Data Scientist at VISAI.AI
+Ex-Research Assistant at VISTEC-DEPA AIResearch Thailand 
 </div>
 
 <br>
