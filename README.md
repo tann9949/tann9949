@@ -53,6 +53,7 @@ Here're some stats to flex on 👇<br>
 
 
 <h2> 🧪 Research Area </h2>
+
 - Speech Pretraining
 - Automatic Speech Recognition (ASR)
 - Speech Emotion Recognition (SER)
